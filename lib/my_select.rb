@@ -7,8 +7,6 @@ def my_select(collection)
     end
     i += 1
     end
-  else
-    nil
   end
   new_collection
 end
